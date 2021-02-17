@@ -9,7 +9,7 @@ from PIL import ImageFilter
 import telebot, urllib
 from telebot import types
 
-API_TOKEN = 'XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+API_TOKEN = '1642830438:AAGRpO8o7tmajxZfmDjZcmO8k8br0dvK99o'
 
 #Just these filters works
 filters = ['BLUR', 'CONTOUR', 'DETAIL', 'EDGE_ENHANCE', 'EDGE_ENHANCE_MORE', 'EMBOSS', 'FIND_EDGES', 'SMOOTH', 'SMOOTH_MORE', 'SHARPEN']
